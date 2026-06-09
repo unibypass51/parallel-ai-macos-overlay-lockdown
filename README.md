@@ -92,16 +92,21 @@ Con pochi clic puoi:
 
 ---
 
+## ⌨️ Scorciatoie
+
+| Scorciatoia | Azione |
+|------------|---------|
+| ⌥ + ⌘ | Apri Parallel AI |
+| ⌥ + T | Acquisizione testo |
+| ⌥ + S | Screenshot |
+
 ## 🎓 Utilizzo accademico
 
 Parallel è particolarmente utile per studenti universitari che necessitano di:
 
-- Analizzare documenti PDF
 - Comprendere argomenti complessi
-- Riassumere dispense
 - Ottenere spiegazioni dettagliate
 - Velocizzare lo studio
-- Organizzare il materiale didattico
 
 ---
 
@@ -126,11 +131,7 @@ Parallel è stato sviluppato con tre obiettivi principali:
 
 Ridurre il numero di operazioni necessarie per accedere agli strumenti più utilizzati.
 
-### 2. Velocizzare
-
-Eliminare le continue interruzioni dovute al cambio di applicazione o dispositivo.
-
-### 3. Migliorare la produttività
+### 2. Migliorare la produttività
 
 Consentire all'utente di rimanere concentrato sulla propria attività principale.
 
@@ -172,12 +173,6 @@ Funzionalità previste per le prossime versioni:
 - Automazioni personalizzate
 
 ---
-
-## 📬 Supporto
-
-Per segnalazioni, suggerimenti o richieste di funzionalità:
-
-Apri una Issue nella repository oppure contatta il team di sviluppo.
 
 ---
 
