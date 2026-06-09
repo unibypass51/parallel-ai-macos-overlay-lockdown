@@ -24,11 +24,11 @@ Per ricevere informazioni, aggiornamenti e ottenere l'accesso al software, entra
 
 All'interno del gruppo troverai:
 
-- 📢 Aggiornamenti
-- 🆕 Nuove funzionalità
-- 💻 Informazioni sui software disponibili
-- ⭐ Recensioni degli utenti
-- 🛠 Assistenza e supporto
+📢 Aggiornamenti
+🆕 Nuove funzionalità
+💻 Informazioni sui software disponibili
+⭐ Recensioni degli utenti
+🛠 Assistenza e supporto
 
 ---
 
