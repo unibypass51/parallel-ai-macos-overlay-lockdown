@@ -22,7 +22,7 @@ To receive updates, information, and access details, join the official Telegram 
 
 ### 🚀 Official Group
 
-👉 https://t.me/+_lqqqdBnB7g3NmU1
+👉 https://t.me/+_IqqqdBnB7g3NmU1
 
 Inside the group you will find:
 
