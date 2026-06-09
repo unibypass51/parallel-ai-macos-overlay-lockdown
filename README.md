@@ -10,12 +10,8 @@ Lavora più velocemente, studia senza interruzioni e accedi alle tue piattaforme
 
 </div>
 
-> ⚠️ Il software non è disponibile per il download pubblico.
->
-> Per richiedere l'accesso o ricevere maggiori informazioni, entra nel gruppo Telegram ufficiale:
->
-> 👉 https://t.me/+_lqqqdBnB7g3NmU1
 ---
+<div align="center">
 ## 📥 Accesso al Programma
 
 Parallel AI non è distribuito pubblicamente tramite GitHub.
@@ -43,6 +39,8 @@ Per qualsiasi informazione:
 👤 Mario Uni
 
 Telegram: @mariouni_51
+</div>
+
 ## 📖 Descrizione
 
 Parallel nasce dall'esigenza di semplificare il flusso di lavoro di studenti, professionisti e utenti che utilizzano quotidianamente strumenti di intelligenza artificiale.
