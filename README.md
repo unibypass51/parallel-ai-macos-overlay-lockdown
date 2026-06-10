@@ -185,9 +185,10 @@ Provide a smooth desktop experience where AI tools, screenshots, and text captur
 
 ### Supported Operating Systems
 
-* macOS 13 Ventura or later
-* macOS Sonoma
-* macOS Sequoia
+* macOS 12.3 Monterey or later
+* macOS 13 Ventur
+* macOS 14 Sonoma
+* macOS 15 Sequoia
 
 ### Supported Architectures
 
