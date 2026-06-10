@@ -194,7 +194,7 @@ L'utente mantiene il controllo completo delle informazioni elaborate durante l'u
 
 Parallel AI è pensato per la produttività, l’accessibilità, lo studio, la ricerca e il miglioramento dei flussi di lavoro.
 
-UGli utenti sono responsabili dell’utilizzo del software nel rispetto delle leggi applicabili, delle regole delle piattaforme, delle politiche scolastiche, delle politiche aziendali e dei termini di servizio.
+Gli utenti sono responsabili dell’utilizzo del software nel rispetto delle leggi applicabili, delle regole delle piattaforme, delle politiche scolastiche, delle politiche aziendali e dei termini di servizio.
 
 ---
 <div align="center">
