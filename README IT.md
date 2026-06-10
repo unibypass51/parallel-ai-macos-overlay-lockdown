@@ -170,10 +170,10 @@ Consentire all'utente di rimanere concentrato sulla propria attività principale
 ## 🍎 Compatibilità
 
 ### Sistema operativo supportato
-
-- macOS 13 Ventura o superiore
-- macOS Sonoma
-- macOS Sequoia
+- macOS 12.3 Monterey o superiore
+- macOS 13 Ventura 
+- macOS 14 Sonoma
+- macOS 15 Sequoia
 
 ### Architetture supportate
 
