@@ -177,7 +177,7 @@ Consentire all'utente di rimanere concentrato sulla propria attività principale
 
 ### Architetture supportate
 
-- Apple Silicon (M1, M2, M3, M4)
+- Apple Silicon (M1, M2, M3, M4...)
 - Intel Mac
 
 ---
