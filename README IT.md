@@ -12,8 +12,10 @@ Lavora più velocemente, studia senza interruzioni e accedi alle tue piattaforme
 </div>
 
 ---
+
 <div align="center">
-📥 Accesso al Programma
+
+## 📥 Accesso al Programma
 
 Parallel AI non è distribuito pubblicamente tramite GitHub.
 
