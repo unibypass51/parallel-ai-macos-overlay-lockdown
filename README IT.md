@@ -58,7 +58,7 @@ L'obiettivo è offrire un'esperienza semplice, veloce e immediata, permettendo a
 
 ### 🖥️ Overlay intelligente
 
-Parallel può essere mantenuto sopra qualsiasi finestra, consentendo un accesso immediato agli strumenti disponibili.
+Parallel AI può essere mantenuto sopra qualsiasi finestra, consentendo un accesso immediato agli strumenti disponibili.
 
 - Sempre visibile
 - Non interrompe il lavoro
