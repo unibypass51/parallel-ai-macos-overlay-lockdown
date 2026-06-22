@@ -145,7 +145,7 @@ Parallel è particolarmente utile per studenti universitari che necessitano di:
 
 ## 💼 Utilizzo professionale
 
-Parallel può essere utilizzato anche in contesti lavorativi per:
+Parallel AI può essere utilizzato anche in contesti lavorativi per:
 
 - Analisi documentale
 - Supporto alla scrittura
@@ -158,7 +158,7 @@ Parallel può essere utilizzato anche in contesti lavorativi per:
 
 ## 🎯 Obiettivi del progetto
 
-Parallel è stato sviluppato con tre obiettivi principali:
+Parallel AI è stato sviluppato con tre obiettivi principali:
 
 ### 1. Semplificare
 
@@ -187,7 +187,7 @@ Consentire all'utente di rimanere concentrato sulla propria attività principale
 
 ## 🔒 Privacy
 
-Parallel non memorizza i dati acquisiti senza il consenso dell'utente.
+Parallel AI non memorizza i dati acquisiti senza il consenso dell'utente.
 
 L'utente mantiene il controllo completo delle informazioni elaborate durante l'utilizzo dell'applicazione.
 
