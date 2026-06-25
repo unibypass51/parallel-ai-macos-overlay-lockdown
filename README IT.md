@@ -23,7 +23,7 @@ Per ricevere informazioni, aggiornamenti e ottenere l'accesso al software, entra
 
 ### 🚀 Gruppo Ufficiale
 
-👉 https://t.me/+_lqqqdBnB7g3NmU1
+👉 https://t.me/+_IqqqdBnB7g3NmU1
 
 All'interno del gruppo troverai:
 
